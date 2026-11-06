@@ -1,6 +1,6 @@
 # Hi, I'm Ajil 👋
 
-**Data Analyst | Power BI · SQL · Python · Tableau | Transforming Insights into Impact**
+** Analyst | Power BI · SQL · Python · Tableau | Transforming Insights into Impact **
 
 [LinkedIn](https://www.linkedin.com/in/ajil/)
 
